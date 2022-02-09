@@ -76,7 +76,7 @@ table#tlayout {
 body {
 	background: white;
 	/* font-family: Verdana,Arial,Helevetica,sans-serif; */
-        font: 1em/1.5 Helevetica,sans-serif,Geneva,Tahoma;
+        font: 1em/1.5 Georgia,sans-serif,Geneva,Arial;
         /* font: 1em/1.5 Helevetica,Georgia,sans-serif,Geneva,Tahoma; */
 	padding-bottom: 8px;
 	margin: 0;
